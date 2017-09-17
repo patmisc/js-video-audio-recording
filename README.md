@@ -8,11 +8,23 @@ Javascript multimedia booth to record Audio and Video and Picture  from GetUserM
 > natively from your browser and webcam.
 > Enjoy it.
 
-### Screen shots
 
- 
 ### How to use it 
     init_webrtc(mediaoption, srctype) 
 
 - *mediaoption* : STRING :  can be  : **picture_snap** | **audio_recording** | **video_recording** 
 - *srctype* : STRING  :  if the source element name calling this function -  (used when saving the video on PHP side ) 
+
+### Screen shots
+
+ ![Welcome page](http://www.zads.fr/github/img/webrtc-adlist.png)
+
+ ![video Recording step 1](http://www.zads.fr/github/img/webrtc-video1.png)
+ 
+ ![video Recording step 2](http://www.zads.fr/github/img/webrtc-video2.png)
+ 
+ ![picture snapshot](http://www.zads.fr/github/img/webrtc-pic1.png)
+ 
+ ![Audio Recording step 1](http://www.zads.fr/github/img/webrtc-audio1.png)
+ 
+ ![Audio Recording step 2](http://www.zads.fr/github/img/webrtc-audio2.png)
